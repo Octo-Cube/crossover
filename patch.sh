@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CROSSOVER_MACOS_PATH="/Apps/CrossOver.app/Contents/MacOS"
+CROSSOVER_MACOS_PATH="/Users/b.whitton29/Documents/Apps/CrossOver.app/Contents/MacOS"
 REPO_URL="https://github.com/Octo-Cube/crossover.git"
 RAW_URL="https://raw.githubusercontent.com/Octo-Cube/crossover/main"
 RELEASE_URL="https://github.com/Octo-Cube/crossover/releases/latest/download/hook.dylib"
